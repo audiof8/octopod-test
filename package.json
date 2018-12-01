@@ -1,0 +1,29 @@
+{
+  "name": "octopod-test",
+  "version": "1.0.0",
+  "description": "Symfony Octopod Test ========================",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@symfony/webpack-encore": "github:symfony/webpack-encore",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-router": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audiof8/octopod-test.git"
+  },
+  "author": "audiof8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audiof8/octopod-test/issues"
+  },
+  "homepage": "https://github.com/audiof8/octopod-test#readme"
+}
